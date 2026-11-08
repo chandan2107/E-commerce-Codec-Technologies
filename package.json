@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-product-catalog",
+  "version": "1.0.0",
+  "description": "Scalable E-Commerce Product Catalog with Advanced Search, Category Hierarchy, Compound Indexing, and RESTful API Architecture",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "start": "cd backend && npm start",
+    "build": "cd frontend && npm run build"
+  },
+  "author": "chandan2107",
+  "license": "MIT"
+}

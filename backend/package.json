@@ -1,0 +1,36 @@
+{
+  "name": "ecom-catalog-backend",
+  "version": "1.0.0",
+  "description": "Scalable E-Commerce Product Catalog Backend with Category Modeling, Aggregations, and Compound Indexing",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seeds/seed.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "product-catalog",
+    "express",
+    "mongodb",
+    "mongoose",
+    "indexing",
+    "scalable-backend"
+  ],
+  "author": "chandan2107",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.8.2",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.3.0",
+    "mongoose": "^9.12.0",
+    "morgan": "^1.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
