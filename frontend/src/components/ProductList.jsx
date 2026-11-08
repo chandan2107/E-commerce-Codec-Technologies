@@ -134,3 +134,4 @@ export default function ProductList({ products = [], onQuickView, onAddToCart })
     </div>
   );
 }
+

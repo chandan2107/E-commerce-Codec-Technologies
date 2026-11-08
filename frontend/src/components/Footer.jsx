@@ -75,15 +75,7 @@ export default function Footer() {
                 <span>React 19 + Tailwind v4 + Vite</span>
               </li>
               <li className="pt-2">
-                <a
-                  href="https://github.com/chandan2107/E-commerce-Codec-Technologies"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center space-x-1 text-amber-400 hover:text-amber-300 font-medium"
-                >
-                  <span>GitHub Repository</span>
-                  <ArrowUpRight className="w-3 h-3" />
-                </a>
+                
               </li>
             </ul>
           </div>
@@ -97,3 +89,4 @@ export default function Footer() {
     </footer>
   );
 }
+

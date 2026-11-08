@@ -226,3 +226,4 @@ export default function ProductQuickView({ product, onClose, onAddToCart }) {
     </div>
   );
 }
+

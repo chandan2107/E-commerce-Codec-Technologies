@@ -65,3 +65,4 @@ export default function StatsBar({ total = 0, count = 0, executionTimeMs = 0 }) 
     </div>
   );
 }
+

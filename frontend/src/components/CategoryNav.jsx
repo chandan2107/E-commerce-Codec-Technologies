@@ -104,3 +104,4 @@ export default function CategoryNav({ categories = [], facetCounts = [] }) {
     </div>
   );
 }
+

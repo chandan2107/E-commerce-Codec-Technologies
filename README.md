@@ -264,3 +264,4 @@ npm run dev
 - **Zero Layout Shifts**: Aspect-ratio locked image containers with smooth crossfade placeholders and tailored skeleton cards.
 - **Complete Responsiveness**: Sticky filter sidebar for desktop, touch-friendly slide-over drawer for mobile.
 - **Deep Linking**: Active search filters, categories, price ranges, and sorting preferences are bidirectionally synced with URL parameters for instant link sharing.
+

@@ -162,3 +162,4 @@ export default function ProductCard({ product, onQuickView, onAddToCart }) {
     </div>
   );
 }
+
